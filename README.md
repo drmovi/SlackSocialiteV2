@@ -1,7 +1,7 @@
 # Slack
 
 ```bash
-composer require socialiteproviders/slackv2
+composer require drmovi/socialiteprovidersslackv2
 ```
 
 ## Installation & Basic Usage
