@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/slack",
+    "name": "socialiteproviders/slackv2",
     "description": "Slack OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
