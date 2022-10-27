@@ -1,7 +1,7 @@
 # Slack
 
 ```bash
-composer require socialiteproviders/slack
+composer require socialiteproviders/slackv2
 ```
 
 ## Installation & Basic Usage
